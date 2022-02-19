@@ -25,6 +25,12 @@ The [Meshtastic Protobufs submodule](https://github.com/meshtastic/meshtastic-pr
 git submodule update --init
 ```
 
+Install the dependencies
+
+```bash
+pnpm install
+```
+
 Then the type definitions need to be generated:
 
 ```bash
